@@ -22,8 +22,16 @@ This project is soley intended for reference and is a continual work-in-progress
 <h3><center>Supply & Manufacture</center></h3>
 
 <p>
-   <b>Presgrip Cine Title Sets</b> were manufactured and sold (primarily during the 1950s and 1960s) by <b>Presgrip Sign Co</b> (🇬🇧 GBR) of <a href="https://streetscan.co.uk/postcode/so23-0ld">Winall Valley Road</a>, Winchester, Hampshire, England SO23&nbsp;0LN (<a href="geo:51.0629327,-1.3081366?q=51.0629327,-1.3081366&z=17">55 Eastgate Street</a> has also been associated). (<a href="https://d2x313g9lpht1q.cloudfront.net/original/3X/6/4/640e409d7310a4fc8579e0982e92274200045b88.png">1</a>) The company was associated with directors CE Tanner and TB Tanner, along with Kennet Price Markers Ltd as the ultimate proprietor. (<a href="https://archivescatalogue.hants.gov.uk/records/A24057?hl=en-GB">2</a>)
+   <b>Presgrip Cine Title Sets</b> were manufactured and sold (primarily during the 1950s and 1960s) by <b>Presgrip Sign Co</b> (🇬🇧 GBR) of <a href="https://streetscan.co.uk/postcode/so23-0ld">Winall Valley Road</a>, Winchester, Hampshire, England SO23&nbsp;0LN (<a href="geo:51.0629327,-1.3081366?q=51.0629327,-1.3081366&z=17">55 Eastgate Street</a> has also been associated). (<a href="https://d2x313g9lpht1q.cloudfront.net/original/3X/6/4/640e409d7310a4fc8579e0982e92274200045b88.png">1</a>) 
+   
+<p>
+The company was associated with directors CE Tanner and TB Tanner, along with Kennet Price Markers Ltd as the ultimate proprietor. (<a href="https://archivescatalogue.hants.gov.uk/records/A24057?hl=en-GB">2</a>)
    </p>
+
+<p>
+Presgrip Sign Co was an exhibitor at the 1955 British Industries Fair (located at Stand F33). (<a href="https://www.gracesguide.co.uk/British_Industries_Fair_Catalogue?hl=en-GB#:~:text=and%20built%20them.-,Grace's%20Guide%20is%20the%20leading%20source%20of%20historical%20information%20on,British%20Industries%20Fair%20Catalogue">3</a>)
+​
+
 
 <h3><center>Presgrip Cine Title Sets</center></h3>
 
@@ -31,6 +39,7 @@ This project is soley intended for reference and is a continual work-in-progress
 
 <p>
 During the boom of amateur filmmaking in the mid-20th century (the 1950s and 60s), the company adapted their core product&nbsp;— removable and reusable letters&nbsp;— to create the Presgrip Cini Title Sets for 8mm and 16mm cine film; these sets enabled amateur film-makers to easily create professional-looking titles and captions for home movies.
+
 </p>
    
 <p>
