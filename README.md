@@ -22,7 +22,7 @@ This project is soley intended for reference and is a continual work-in-progress
 <h3><center>Supply & Manufacture</center></h3>
 
 <p>
-   <b>Presgrip Cine Title Sets</b> were manufactured and sold by <b>Presgrip Sign Co</b> (🇬🇧 GBR) of Winall Valley Road Winchester, Hampshire, England SO23 0LN (<a href="https://maps.app.goo.gl/yQD3oxF1HkD1LjEJ8">Google&nbsp;Maps</a>) (<a href="https://www.openstreetmap.org/way/1263297945">OpenStreetMap</a>), primarily during the 1950s and 1960s. (<a href="https://d2x313g9lpht1q.cloudfront.net/original/3X/6/4/640e409d7310a4fc8579e0982e92274200045b88.png">1</a>) The company was associated with directors CE Tanner and TB Tanner, along with Kennet Price Markers Ltd as the ultimate proprietor. (<a href="https://archivescatalogue.hants.gov.uk/records/A24057?hl=en-GB">2</a>)
+   <b>Presgrip Cine Title Sets</b> were manufactured and sold by <b>Presgrip Sign Co</b> (🇬🇧 GBR) of Winall Valley Road Winchester, Hampshire, England SO23 0LN (<a href="https://www.openstreetmap.org/way/1263297945">OpenStreetMap</a>), primarily during the 1950s and 1960s. (<a href="https://d2x313g9lpht1q.cloudfront.net/original/3X/6/4/640e409d7310a4fc8579e0982e92274200045b88.png">1</a>) The company was associated with directors CE Tanner and TB Tanner, along with Kennet Price Markers Ltd as the ultimate proprietor. (<a href="https://archivescatalogue.hants.gov.uk/records/A24057?hl=en-GB">2</a>)
    </p>
 
 <h3><center>Presgrip Cine Title Sets</center></h3>
