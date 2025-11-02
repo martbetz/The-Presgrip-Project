@@ -1,6 +1,6 @@
 <!-- The Presgrip Project -->
 
-<!-- An information resource for two very obscure and rare camera lenses. -->
+<!-- An information resource for Presgrip Cine Title Sets. -->
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/110672536/213457704-eeb368ae-b18b-4dd3-8c9f-fb1f88a232a4.png">
@@ -34,13 +34,15 @@ During the boom of amateur filmmaking in the mid-20th century (the 1950s and 60s
 </p>
    
 <p>
-Presgrip offered a few different versions of their Cine Title Sets, catering to various budgets and needs of the amateur filmmaker, the contents of which typically revolved around a core set of reusable components designed for easy filming. The main feature of any Presgrip set was the lettering system itself:
+Presgrip offered several different versions of their Cine Title Sets, catering to various budgets and needs of the amateur filmmaker, the contents of which typically revolved around a core set of reusable components designed for easy filming. The main feature of any Presgrip set was the lettering system itself:
 
 - ​letters and numbers: these were usually white plastic characters that came in large quantities (a full alphabet and often common punctuation marks) and were mounted on sheets or in a segmented tray for organization
 
-- ​the board/screen: a title board or screen where the letters would be mounted. This often featured a ribbed or slotted surface to keep the letters neatly aligned.
-​Backgrounds: To add variety, sets often included different colored backgrounds (e.g., red, blue, green) that could be swapped out on the board, allowing for contrasting colors to make the white letters pop on film.
+- ​the board/screen: a title board or screen where the letters would be mounted which often featured a ribbed or slotted surface to keep the letters neatly aligned
 
-- ​"celluloid" filters: some of the more complete sets included a set of colored celluloid or plastic filters. These could be placed over the title to add color effects or tints to the title sequence when filmed.
-​Instructions and Layout Guides: The original kits always came with an instruction manual and sometimes a Layout Reference Card to help the filmmaker center their titles correctly within the camera's frame (especially important for older 8mm and 16mm formats).
+- ​backgrounds: to add variety, sets often included different colored backgrounds (mainly red, blue, and green) that could be swapped out on the board; these allowed for contrasting colors to make the white letters pop on film
+
+- ​"celluloid" filters: some of the more complete sets included a set of colored celluloid or plastic filters; these could be placed over the title to add color effects or tints to the title sequence when filmed
+
+- ​instructions and layout guides: The original kits always came with an instruction manual and sometimes a layout-reference card to help the filmmaker center their titles correctly within the camera's frame (especially important for older 8mm and 16mm formats)
 </p>
