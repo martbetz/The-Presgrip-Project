@@ -91,7 +91,8 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 
 <p style="margin-top: -15px;">
 
-<center>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ? ! ( ) & </center>
+<center>A B C D E F G H I J K L M N O P Q R S T U V W<br>
+X  Y Z ? ! ( ) & </center>
 
 </p>
 
