@@ -77,7 +77,7 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 |"100" set of extra white letters/figures |12/6 (twelve shillings, sixpence)|
 |"100" set of extra yellow letters/figures 15/0| (fifteen shillings)|
 
-<center>
+</center>
 
 </p>
 
@@ -91,10 +91,7 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 
 <p style="margin-top: -15px;">
 
-<center>
-   
-   A B C D E F G H I J K L M N O P Q R S T U V W
-X Y Z ? ! ( ) & </center>
+<center>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ? ! ( ) & </center>
 
 </p>
 
@@ -113,19 +110,11 @@ X Y Z ? ! ( ) & </center>
 
 </p>
 
-<h4><center>
-   
-Letters (Lower Case)
-
-</center></h4>
+<h4><center>Letters (Lower Case)</center></h4>
 
 <p style="margin-top: -15px;">
 
-<center>
-   
-a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
-
-</center>
+<center>a b c d e f g h i j k l m n o p q r s t u v w x y z ? !</center>
 
 </p>
 
@@ -167,6 +156,8 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
 |3/8"|3½d (three and halfpence)|2/3 (two shillings, threepence)|
 |script (except £ / /- d $)|3d (threepence)|2/6 (two shillings, sixpence)|
 
+</center>
+
 </p>
 
 
@@ -184,6 +175,8 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
 |animation table|17s 6d (seventeen shilings, sixpence)|
 |13 7/8" x 13 7/8" perspex screen|17s 6d (seventeen shilings, sixpence)|
 |13 7/8" x 12" perspex screen|15s 0d (fifteen shillings)|
+
+</center>
 
 </p>
 
@@ -204,7 +197,6 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
 |wooden box with two plastic trays|40s 0d (forty shillings)|
 |wooden box with one plastic tray|35s 0d (35 shillings)|
 
-
+</cenyer>
 
 </p>
-
