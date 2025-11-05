@@ -40,8 +40,6 @@ Presgrip Sign Co was an exhibitor at the 1955 British Industries Fair (located a
 <h3><center>Presgrip Cine Title Sets</center></h3>
 
 <p>
-
-<p>
 During the boom of amateur filmmaking in the mid-20th century (the 1950s and 60s), the company adapted their core product&nbsp;— removable and reusable letters&nbsp;— to create the Presgrip Cini Title Sets for 8mm and 16mm cine film; these sets enabled amateur film-makers to easily create professional-looking titles and captions for home movies.
 
 </p>
@@ -59,3 +57,144 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 
 - ​instructions and layout guides: The original kits always came with an instruction manual and sometimes a layout-reference card to help the filmmaker center their titles correctly within the camera's frame (especially important for older 8mm and 16mm formats)
 </p>
+
+<p style="margin-top: 40px;">
+
+<h3><center>Product Price List</center></h3>
+
+</p>
+
+<p style="margin-top: 20px;">
+
+<center>
+
+|DESCRIPTION|PRICE EACH|
+|------|----|
+|Outfit 'B' - standard complete set |£4. 0. 0. (four pounds)|
+|Outfit 'MAJOR' - larger, more comprehensive set |£5. 12. 6. (five pounds, twelve shillings, and sixpence)|
+|felt board - 15" x 12"| £1. 10. 0. (one pound, ten shillings)|
+|title easel - for holding the titling board |£1. 15. 0. (one pound, fifteen shillings)|
+|"100" set of extra white letters/figures |12/6 (twelve shillings, sixpence)|
+|"100" set of extra yellow letters/figures 15/0| (fifteen shillings)|
+
+<center>
+
+</p>
+
+<p style="margin-top: 40px;">
+
+<h3><center>Spares Price List</center></h3>
+
+<h4><center>Letters (Upper Case)</center></h4>
+
+</p>
+
+<p style="margin-top: -15px;">
+
+<center>A B C D E F G H I J K L M N O P Q R S T U V W<br>
+X  Y Z ? ! ( ) & </center>
+
+</p>
+
+<p style="margin-top: 20px;">
+
+<center>
+
+|SIZE|PRICE EACH|PRICE PER DOZEN|
+|------|----|
+|3/4"|3d (threepence)|2/9 (two shillings, ninepence)|
+|9/16"|3d (threepence)|2/6 (two shillings, sixpence)|
+|3/8"|2/½d (two and halfpence)|2/3 (two shillings, threepence)|
+|script|3d (threepence)|2/6 (two shillings, sixpence)|
+
+<center>
+
+</p>
+
+<h4><center>Letters (Lower Case)</center></h4>
+
+<p style="margin-top: -15px;">
+
+<center>a b c d e f g h i j k l m n o p q r s t u v w x y z ? !</center>
+
+</p>
+
+<p style="margin-top: 20px;">
+
+<center>
+
+|SIZE|PRICE EACH|PRICE PER DOZEN|
+|------|----|
+|9/16"|3d (threepence)|2/6 (two shillings, sixpence)|
+|3/8"|2/½d (two and halfpence)|2/3 (two shillings, threepence)|
+|script|3d (threepence)|2/6 (two shillings, sixpence)|
+
+</center>
+
+</p>
+
+<h4><center>Numerals</center></h4>
+
+<p style="margin-top: -15px;">
+
+<center>
+
+1 2 3 4 5 6 7 8 9 £ / /- $
+
+</center>
+
+</p>
+
+<p style="margin-top: 20px;">
+
+<center>
+
+|SIZE|PRICE EACH|PRICE PER DOZEN|
+|------|----|
+|1"|3½d (three and halfpence)|3/6 (three shillings, sixpence)|
+|12/16"|3d (threepence)|3- (three shillings)|
+|9/16"|3d (threepence)|2/6 (two shillings, sixpence)|
+|3/8"|3½d (three and halfpence)|2/3 (two shillings, threepence)|
+|script (except £ / /- d $)|3d (threepence)|2/6 (two shillings, sixpence)|
+
+</p>
+
+
+
+<h4><center>Titler</center></h4>
+
+<p style="margin-top: 20px;">
+
+<center>
+
+|DESCRIPTION|PRICE EACH|
+|------|----|
+|raising and lowering attachment|£10 10s 0d (ten pounds, ten shillings)|
+|lamp reflector|45s 0d (forty-five shillings)|
+|animation table|17s 6d (seventeen shilings, sixpence)|
+|13 7/8" x 13 7/8" perspex screen|17s 6d (seventeen shilings, sixpence)|
+|13 7/8" x 12" perspex screen|15s 0d (fifteen shillings)|
+
+</p>
+
+<h4><center>Misc</center></h4>
+
+<p style="margin-top: 20px;">
+
+<center>
+
+|DESCRIPTION|PRICE EACH|
+|------|----|
+|12" x 9" transparent screen|6s 0d (six shillings shillings)|
+|centering rule|2s 3d (two shillings, theepence)|
+|12" x 9" background letherette sheet (red, blue, green, black)|9d (ninepence)|
+|12" x 9" layout card| 9d (ninepence)|
+|12" x 9" script layout card| 9d (ninepence)|
+|cardboard box with one plastic tray|6s 6d (six shillings, sixpence|
+|wooden box with two plastic trays|40s 0d (forty shillings)|
+|wooden box with one plastic tray|35s 0d (35 shillings)|
+
+
+
+</p>
+
