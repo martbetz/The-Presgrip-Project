@@ -58,15 +58,15 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 - ​instructions and layout guides: The original kits always came with an instruction manual and sometimes a layout-reference card to help the filmmaker center their titles correctly within the camera's frame (especially important for older 8mm and 16mm formats)
 </p>
 
+<center>
+
 <p style="margin-top: 40px;">
 
-<h3><center>Product Price List</center></h3>
+<h3>Product Price List</h3>
 
 </p>
 
 <p style="margin-top: 20px;">
-
-<center>
 
 |DESCRIPTION|PRICE EACH|
 |------|----|
@@ -77,40 +77,30 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 |"100" set of extra white letters/figures |12/6 (twelve shillings, sixpence)|
 |"100" set of extra yellow letters/figures 15/0| (fifteen shillings)|
 
-</center>
-
 </p>
 
 <p style="margin-top: 40px;">
 
-<h3><center>Spares Price List</center></h3>
+<h3>Spares Price List</h3>
 
-<h4><center>Letters (Upper Case)</center></h4>
+<h4>Letters (Upper Case)</h4>
 
 </p>
 
 <p style="margin-top: -15px;">
-
-<center>
    
-A B C D E F G H I J K L M N O P Q R<br>S T U V W X Y Z ? ! ( ) &
-
-</center>
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ? ! ( ) &
 
 </p>
 
 <p style="margin-top: 20px;">
 
-<center>
-
 |SIZE|PRICE EACH|PRICE PER DOZEN|
-|------|----|
+|------|----|----|
 |3/4"|3d (threepence)|2/9 (two shillings, ninepence)|
 |9/16"|3d (threepence)|2/6 (two shillings, sixpence)|
 |3/8"|2/½d (two and halfpence)|2/3 (two shillings, threepence)|
 |script|3d (threepence)|2/6 (two shillings, sixpence)|
-
-</center>
 
 </p>
 
@@ -118,59 +108,46 @@ A B C D E F G H I J K L M N O P Q R<br>S T U V W X Y Z ? ! ( ) &
 
 <p style="margin-top: -15px;">
 
-<center>a b c d e f g h i j k l m n o p q r s t u v w x y z ? !</center>
+a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
 
 </p>
 
 <p style="margin-top: 20px;">
 
-<center>
-
 |SIZE|PRICE EACH|PRICE PER DOZEN|
-|------|----|
+|------|----|----|
 |9/16"|3d (threepence)|2/6 (two shillings, sixpence)|
 |3/8"|2/½d (two and halfpence)|2/3 (two shillings, threepence)|
 |script|3d (threepence)|2/6 (two shillings, sixpence)|
 
-</center>
-
 </p>
 
-<h4><center>Numerals</center></h4>
+<h4>Numerals</h4>
 
 <p style="margin-top: -15px;">
 
-<center>
 
 1 2 3 4 5 6 7 8 9 £ / /- $
-
-</center>
 
 </p>
 
 <p style="margin-top: 20px;">
 
-<center>
-
 |SIZE|PRICE EACH|PRICE PER DOZEN|
-|------|----|
+|------|----|----|
 |1"|3½d (three and halfpence)|3/6 (three shillings, sixpence)|
 |12/16"|3d (threepence)|3- (three shillings)|
 |9/16"|3d (threepence)|2/6 (two shillings, sixpence)|
 |3/8"|3½d (three and halfpence)|2/3 (two shillings, threepence)|
 |script (except £ / /- d $)|3d (threepence)|2/6 (two shillings, sixpence)|
 
-</center>
-
 </p>
 
 
 
-<h4><center>Titler</center></h4>
+<h4>Titler</h4>
 
 <p style="margin-top: 20px;">
-
-<center>
 
 |DESCRIPTION|PRICE EACH|
 |------|----|
@@ -180,15 +157,11 @@ A B C D E F G H I J K L M N O P Q R<br>S T U V W X Y Z ? ! ( ) &
 |13 7/8" x 13 7/8" perspex screen|17s 6d (seventeen shilings, sixpence)|
 |13 7/8" x 12" perspex screen|15s 0d (fifteen shillings)|
 
-</center>
-
 </p>
 
-<h4><center>Misc</center></h4>
+<h4>Misc</h4>
 
 <p style="margin-top: 20px;">
-
-<center>
 
 |DESCRIPTION|PRICE EACH|
 |------|----|
