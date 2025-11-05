@@ -91,7 +91,9 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 
 <p style="margin-top: -15px;">
 
-<center>A B C D E F G H I J K L M N O P Q R S T U V W
+<center>
+   
+   A B C D E F G H I J K L M N O P Q R S T U V W
 X Y Z ? ! ( ) & </center>
 
 </p>
@@ -107,15 +109,23 @@ X Y Z ? ! ( ) & </center>
 |3/8"|2/½d (two and halfpence)|2/3 (two shillings, threepence)|
 |script|3d (threepence)|2/6 (two shillings, sixpence)|
 
-<center>
+</center>
 
 </p>
 
-<h4><center>Letters (Lower Case)</center></h4>
+<h4><center>
+   
+Letters (Lower Case)
+
+</center></h4>
 
 <p style="margin-top: -15px;">
 
-<center>a b c d e f g h i j k l m n o p q r s t u v w x y z ? !</center>
+<center>
+   
+a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
+
+</center>
 
 </p>
 
