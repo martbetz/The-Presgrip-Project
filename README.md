@@ -91,7 +91,11 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 
 <p style="margin-top: -15px;">
 
-<center>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ? ! ( ) & </center>
+<center>
+   
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ? ! ( ) &
+
+</center>
 
 </p>
 
@@ -197,6 +201,6 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 |wooden box with two plastic trays|40s 0d (forty shillings)|
 |wooden box with one plastic tray|35s 0d (35 shillings)|
 
-</cenyer>
+</center>
 
 </p>
