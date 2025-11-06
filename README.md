@@ -70,12 +70,12 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 
 |DESCRIPTION|PRICE EACH|
 |------|----|
-|Outfit 'B' - standard complete set |£4. 0. 0. (four pounds)|
-|Outfit 'MAJOR' - larger, more comprehensive set |£5. 12. 6. (five pounds, twelve shillings, and sixpence)|
-|felt board - 15" x 12"| £1. 10. 0. (one pound, ten shillings)|
-|title easel - for holding the titling board |£1. 15. 0. (one pound, fifteen shillings)|
-|"100" set of extra white letters/figures |12/6 (twelve shillings, sixpence)|
-|"100" set of extra yellow letters/figures 15/0| (fifteen shillings)|
+|Outfit 'B' - standard complete set |£4 0s 0d (four pounds)|
+|Outfit 'MAJOR' - larger, more comprehensive set |£5 12s 6p (five pounds, twelve shillings, and sixpence)|
+|felt board - 15" x 12"| £1 10s 0d (one pound, ten shillings)|
+|title easel - for holding the titling board |£1 15s 0 (one pound, fifteen shillings)|
+|"100" set of extra white letters/figures |12s 6d (twelve shillings, sixpence)|
+|"100" set of extra yellow letters/figures 15s 0d| (fifteen shillings)|
 
 </p>
 
@@ -97,10 +97,10 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ? ! ( ) &
 
 |SIZE|PRICE EACH|PRICE PER DOZEN|
 |------|----|----|
-|3/4"|3d (threepence)|2/9 (two shillings, ninepence)|
-|9/16"|3d (threepence)|2/6 (two shillings, sixpence)|
-|3/8"|2/½d (two and halfpence)|2/3 (two shillings, threepence)|
-|script|3d (threepence)|2/6 (two shillings, sixpence)|
+|3/4"|3d (threepence)|2s 9d (two shillings, ninepence)|
+|9/16"|3d (threepence)|2s 6d (two shillings, sixpence)|
+|3/8"|2s ½d (two and halfpence)|2s 3d (two shillings, threepence)|
+|script|3d (threepence)|2s 6d (two shillings, sixpence)|
 
 </p>
 
@@ -116,9 +116,9 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
 
 |SIZE|PRICE EACH|PRICE PER DOZEN|
 |------|----|----|
-|9/16"|3d (threepence)|2/6 (two shillings, sixpence)|
-|3/8"|2/½d (two and halfpence)|2/3 (two shillings, threepence)|
-|script|3d (threepence)|2/6 (two shillings, sixpence)|
+|9/16"|3d (threepence)|2s 6d (two shillings, sixpence)|
+|3/8"|2s ½d (two and halfpence)|2s 3d (two shillings, threepence)|
+|script|3d (threepence)|2s 6d (two shillings, sixpence)|
 
 </p>
 
@@ -135,11 +135,11 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
 
 |SIZE|PRICE EACH|PRICE PER DOZEN|
 |------|----|----|
-|1"|3½d (three and halfpence)|3/6 (three shillings, sixpence)|
-|12/16"|3d (threepence)|3- (three shillings)|
-|9/16"|3d (threepence)|2/6 (two shillings, sixpence)|
-|3/8"|3½d (three and halfpence)|2/3 (two shillings, threepence)|
-|script (except £ / /- d $)|3d (threepence)|2/6 (two shillings, sixpence)|
+|1"|3s ½d (three and halfpence)|3s 6d (three shillings, sixpence)|
+|12/16"|3d (threepence)|3s (three shillings)|
+|9/16"|3d (threepence)|2s 6d (two shillings, sixpence)|
+|3/8"|3s ½d (three and halfpence)|2s 3d (two shillings, threepence)|
+|script (except £ / /- d $)|3d (threepence)|2s 6d (two shillings, sixpence)|
 
 </p>
 
