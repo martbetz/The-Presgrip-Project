@@ -99,7 +99,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ? ! ( ) &
 |------|----|----|
 |3/4"|3d (threepence)|2s 9d (two shillings, ninepence)|
 |9/16"|3d (threepence)|2s 6d (two shillings, sixpence)|
-|3/8"|2s ½d (two and halfpence)|2s 3d (two shillings, threepence)|
+|3/8"|2½d (two and halfpence)|2s 3d (two shillings, threepence)|
 |script|3d (threepence)|2s 6d (two shillings, sixpence)|
 
 </p>
@@ -117,7 +117,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
 |SIZE|PRICE EACH|PRICE PER DOZEN|
 |------|----|----|
 |9/16"|3d (threepence)|2s 6d (two shillings, sixpence)|
-|3/8"|2s ½d (two and halfpence)|2s 3d (two shillings, threepence)|
+|3/8"|2½d (two and halfpence)|2s 3d (two shillings, threepence)|
 |script|3d (threepence)|2s 6d (two shillings, sixpence)|
 
 </p>
@@ -135,10 +135,10 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z ? !
 
 |SIZE|PRICE EACH|PRICE PER DOZEN|
 |------|----|----|
-|1"|3s ½d (three and halfpence)|3s 6d (three shillings, sixpence)|
+|1"|3½d (three and halfpence)|3s 6d (three shillings, sixpence)|
 |12/16"|3d (threepence)|3s (three shillings)|
 |9/16"|3d (threepence)|2s 6d (two shillings, sixpence)|
-|3/8"|3s ½d (three and halfpence)|2s 3d (two shillings, threepence)|
+|3/8"|3½d (three and halfpence)|2s 3d (two shillings, threepence)|
 |script (except £ / /- d $)|3d (threepence)|2s 6d (two shillings, sixpence)|
 
 </p>
