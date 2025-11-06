@@ -75,7 +75,7 @@ Presgrip offered several different versions of their Cine Title Sets, catering t
 |felt board - 15" x 12"| £1 10s 0d (one pound, ten shillings)|
 |title easel - for holding the titling board |£1 15s 0 (one pound, fifteen shillings)|
 |"100" set of extra white letters/figures |12s 6d (twelve shillings, sixpence)|
-|"100" set of extra yellow letters/figures 15s 0d| (fifteen shillings)|
+|"100" set of extra yellow letters/figures|15s 0d (fifteen shillings)|
 
 </p>
 
