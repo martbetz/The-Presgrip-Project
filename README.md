@@ -22,18 +22,22 @@ This project is soley intended for reference and is a continual work-in-progress
 <h3><center>Supply & Manufacture</center></h3>
 
 <p>
-   <b>Presgrip Cine Title Sets</b> were manufactured and marketed, primarily during the 1950s and 1960s, by <b>Presgrip Sign Co</b> (🇬🇧 GBR).
-   
+   <b>Presgrip Cine Title Sets</b> were manufactured and marketed, primarily during the 1950s and 1960s, by <b>Presgrip Sign Co</b> (🇬🇧 GBR). 
+</p>
+
+  <p>
+   There were a total of nine different sets available. (1)
+  </p>
    
 <p>
-Associated addresses for Presgrip Sign Co are <a href="https://streetscan.co.uk/postcode/so23-0ld">Winall Valley Road</a> and <a href="geo:51.0629327,-1.3081366?q=51.0629327,-1.3081366&z=17">55a Eastgate Street</a> in Hamphire, England. (<a href="https://d2x313g9lpht1q.cloudfront.net/original/3X/6/4/640e409d7310a4fc8579e0982e92274200045b88.png">1</a>) 
+Associated addresses for Presgrip Sign Co are <a href="https://streetscan.co.uk/postcode/so23-0ld">Winall Valley Road</a> and <a href="geo:51.0629327,-1.3081366?q=51.0629327,-1.3081366&z=17">55a Eastgate Street</a> in Hamphire, England. (<a href="https://d2x313g9lpht1q.cloudfront.net/original/3X/6/4/640e409d7310a4fc8579e0982e92274200045b88.png">2</a>) 
    
 <p>
-The company was associated with directors CE Tanner and TB Tanner, along with Kennet Price Markers Ltd as the ultimate proprietor. (<a href="https://archivescatalogue.hants.gov.uk/records/A24057?hl=en-GB">2</a>)
+The company was associated with directors CE Tanner and TB Tanner, along with Kennet Price Markers Ltd as the ultimate proprietor. (<a href="https://archivescatalogue.hants.gov.uk/records/A24057?hl=en-GB">3</a>)
    </p>
 
 <p>
-Presgrip Sign Co was an exhibitor at the 1955 British Industries Fair (located at Stand F33). (<a href="https://www.gracesguide.co.uk/1955_British_Industries_Fair:_Company_P">3</a>)
+Presgrip Sign Co was an exhibitor at the 1955 British Industries Fair (located at Stand F33). (<a href="https://www.gracesguide.co.uk/1955_British_Industries_Fair:_Company_P">4</a>)
 ​
 
 
